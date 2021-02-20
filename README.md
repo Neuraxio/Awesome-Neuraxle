@@ -75,4 +75,4 @@ You can contribute to [this list](https://github.com/Neuraxio/Awesome-Neuraxle) 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Neuraxio Inc.](https://github.com/Neuraxio) and all contributors to this list have waived all copyright and related or neighboring rights to this work. [Read the full license here](https://github.com/Neuraxio/Awesome-Neuraxle/blob/main/LICENSE).
+To the extent possible under law, [Neuraxio Inc.](https://github.com/Neuraxio) and all contributors to this list have waived all copyright and related or neighboring rights to this awesome list for Neuraxle resources. [Read the full license here](https://github.com/Neuraxio/Awesome-Neuraxle/blob/main/LICENSE).
