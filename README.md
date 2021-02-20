@@ -2,7 +2,7 @@
 
 A curated list of Neuraxle resources. 
 
-You can contribute to [this list](https://github.com/Neuraxio/Awesome-Neuraxle) by following the instructions [here](https://github.com/sindresorhus/awesome/blob/main/contributing.md#adding-something-to-an-awesome-list). By contributing, you accept to make your contribution available under the public domain as per this list's [License](#license). 
+You can contribute to [this list](https://github.com/Neuraxio/Awesome-Neuraxle) by following the instructions [here](https://github.com/sindresorhus/awesome/blob/main/contributing.md#adding-something-to-an-awesome-list). By contributing, you accept to make your contribution available under the public domain as per this list's specific CC0 1.0 Universal [License](#license). 
 
 
 ## Contents
