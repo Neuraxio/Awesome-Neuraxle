@@ -45,7 +45,7 @@ You can contribute to [this list](https://github.com/Neuraxio/Awesome-Neuraxle) 
 - [(Language: French) Neuraxle - An Open-Source Framework for AutoML and Time Series Processing](https://www.youtube.com/watch?v=WXWDDEkuSaE) - An introductory talk on Neuraxle, in French. 
 - [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g) - A talk on how to create clean software architecture in machine learning projects such as using Neuraxle.
 - [The Business Process of Machine Learning](https://www.youtube.com/watch?v=G5gZ-SX80dY) - A non-technical talk on conveying machine learning projects.
-
+- [AutoML for Time Series Processing](https://www.youtube.com/watch?v=Ct2Lg0lOLoE) - Perform Automated Machine Learning (AutoML) on complex data sources such as 3D data.
 
 <a name="projects" />
 
